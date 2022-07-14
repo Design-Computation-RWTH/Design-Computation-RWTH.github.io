@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: CAIA Test
+name: Context Aware Image Acquisition
 
 # Name of the author
 author: Oliver Schulz
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Context Aware Image Acquisition (CAIA) landing page
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
